@@ -4,36 +4,3 @@
 # Description
 
  
-## Directories structure
- - .github
-   - ISSUE_TEMPLATE
-     - bug_report.md
-     - feature-request.md
-   - workflows
-     - python-test.yml
- - bin
-   - rd.py
-   - test_rd.py
- - docs
-   - LICENSE
-   - README.md
- - log
-   - trace.log
- - requirements
-   - requirements.txt
-   
-### Execution examples
- - python3 rd.py
- - python3 test_rd.py
-
-# Changelog
- - [Version_1.0_2021-1-15](#Version_10_2021-1-15)
-
-## Version_1.0_2021-1-15
- - Initial version
-
----
-Made by Castellani Davide 
-If you have any problem please contact me:
-- help@castellanidavide.it
-- [Issue](https://github.com/CastellaniDavide/rd/issues)
